@@ -1,6 +1,5 @@
 # ___________________________________________
-# Data Mining Group 5 Final Project
-# Jyoti Sharma, Tanvi Hindwan, and Jessa Henderson
+# Data Mining  Final Project
 # Features impacting price in Florence Airbnbs
 # ___________________________________________
 
